@@ -2,6 +2,7 @@
   <Folder Name="/BehaviouralPatterns/">
     <Project Path="../MementoPattern/MementoPattern.csproj" />
     <Project Path="../ObserverPattern/ObserverPattern.csproj" />
+    <Project Path="../StrategyPattern/StrategyPattern.csproj" Id="a26b90db-a033-42f4-a416-bf01ea2c46bb" />
   </Folder>
   <Project Path="OOPS.csproj" />
 </Solution>
