@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/BehaviouralPatterns/">
+    <Project Path="../MementoPattern/MementoPattern.csproj" />
+    <Project Path="../ObserverPattern/ObserverPattern.csproj" />
+  </Folder>
+  <Project Path="OOPS.csproj" />
+</Solution>

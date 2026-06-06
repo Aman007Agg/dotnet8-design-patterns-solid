@@ -1,0 +1,17 @@
+bin/
+obj/
+
+.vs/
+.vscode/
+
+*.user
+*.suo
+
+TestResults/
+
+*.nupkg
+
+packages/
+
+_ReSharper*/
+*.DotSettings.user
