@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/BehaviouralPatterns/">
     <Project Path="../CommandDesignPattern/CommandDesignPattern.csproj" Id="7530a454-e1ea-418d-8005-0920fb4c8c58" />
+    <Project Path="../IteratorPattern/IteratorPattern.csproj" Id="6068cfe0-39be-4c11-bc22-b509ff23a5be" />
     <Project Path="../MementoPattern/MementoPattern.csproj" />
     <Project Path="../ObserverPattern/ObserverPattern.csproj" />
     <Project Path="../StrategyPattern/StrategyPattern.csproj" Id="a26b90db-a033-42f4-a416-bf01ea2c46bb" />
