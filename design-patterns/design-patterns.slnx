@@ -4,6 +4,7 @@
     <Project Path="../IteratorPattern/IteratorPattern.csproj" Id="6068cfe0-39be-4c11-bc22-b509ff23a5be" />
     <Project Path="../MementoPattern/MementoPattern.csproj" />
     <Project Path="../ObserverPattern/ObserverPattern.csproj" />
+    <Project Path="../StatePattern/StatePattern.csproj" Id="31c9c5c4-203e-4f4f-b8c1-b7794c3a0766" />
     <Project Path="../StrategyPattern/StrategyPattern.csproj" Id="a26b90db-a033-42f4-a416-bf01ea2c46bb" />
     <Project Path="../TemplateMethodPattern/TemplateMethodPattern.csproj" Id="69ef2916-ba7d-47c9-8597-cb7add61225b" />
   </Folder>
