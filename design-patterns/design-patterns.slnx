@@ -38,6 +38,7 @@
   </Folder>
   <Folder Name="/StructuralPatterns/">
     <Project Path="../AdapterPattern/AdapterPattern.csproj" Id="3072bb64-4ca0-4ab0-adf3-5c063f4c4a24" />
+    <Project Path="../DecoratorPattern/DecoratorPattern.csproj" Id="ca3616e0-25b6-4920-9f2d-5adfe080e86e" />
   </Folder>
   <Project Path="../LinQ/LinQ.csproj" Id="d2114700-99e5-49da-80cb-03c9c0a6f56f" />
   <Project Path="OOPS.csproj" />
