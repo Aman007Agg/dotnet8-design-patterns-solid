@@ -9,6 +9,9 @@
     <Project Path="../StrategyPattern/StrategyPattern.csproj" Id="a26b90db-a033-42f4-a416-bf01ea2c46bb" />
     <Project Path="../TemplateMethodPattern/TemplateMethodPattern.csproj" Id="69ef2916-ba7d-47c9-8597-cb7add61225b" />
   </Folder>
+  <Folder Name="/CreationalPatterns/">
+    <Project Path="../Singleton/Singleton.csproj" Id="90ae52fe-ac06-4e25-989d-ef8891570255" />
+  </Folder>
   <Project Path="../LinQ/LinQ.csproj" Id="d2114700-99e5-49da-80cb-03c9c0a6f56f" />
   <Project Path="OOPS.csproj" />
 </Solution>
