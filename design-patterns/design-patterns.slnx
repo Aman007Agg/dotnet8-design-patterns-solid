@@ -10,6 +10,7 @@
     <Project Path="../TemplateMethodPattern/TemplateMethodPattern.csproj" Id="69ef2916-ba7d-47c9-8597-cb7add61225b" />
   </Folder>
   <Folder Name="/CreationalPatterns/">
+    <Project Path="../Factory/FactoryMethod.csproj" Id="f46e7219-0935-4331-84b9-8c755de7cef3" />
     <Project Path="../Singleton/Singleton.csproj" Id="90ae52fe-ac06-4e25-989d-ef8891570255" />
   </Folder>
   <Project Path="../LinQ/LinQ.csproj" Id="d2114700-99e5-49da-80cb-03c9c0a6f56f" />
