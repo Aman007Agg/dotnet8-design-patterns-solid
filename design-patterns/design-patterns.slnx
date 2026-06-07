@@ -33,6 +33,7 @@
     </Project>
     <Project Path="../BuilderPattern/BuilderPattern.csproj" Id="c53138a7-9f61-46d9-94e9-40f87b4f7d01" />
     <Project Path="../Factory/FactoryMethod.csproj" Id="f46e7219-0935-4331-84b9-8c755de7cef3" />
+    <Project Path="../PrototypePattern/PrototypePattern.csproj" Id="403e5f5c-1262-455a-84d0-479f7a78ce20" />
     <Project Path="../Singleton/Singleton.csproj" Id="90ae52fe-ac06-4e25-989d-ef8891570255" />
   </Folder>
   <Project Path="../LinQ/LinQ.csproj" Id="d2114700-99e5-49da-80cb-03c9c0a6f56f" />
