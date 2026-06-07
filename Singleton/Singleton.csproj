@@ -9,4 +9,8 @@
     <DockerfileContext>..\design-patterns</DockerfileContext>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AbstractFactoryMethod\AbstractFactoryMethod.csproj" />
+  </ItemGroup>
+
 </Project>

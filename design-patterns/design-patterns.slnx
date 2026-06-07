@@ -1,6 +1,9 @@
 <Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
   <Folder Name="/BehaviouralPatterns/">
-    <Project Path="../AbstractFactoryMethod/AbstractFactoryMethod.csproj" Id="31e748f9-7bc5-4e0f-a315-4b2f071b734e" />
     <Project Path="../CommandDesignPattern/CommandDesignPattern.csproj" Id="7530a454-e1ea-418d-8005-0920fb4c8c58" />
     <Project Path="../IteratorPattern/IteratorPattern.csproj" Id="6068cfe0-39be-4c11-bc22-b509ff23a5be" />
     <Project Path="../MediatorPattern/MediatorPattern.csproj" Id="1e928e9d-3bc0-4ca2-b496-d5aa0ebe8b10" />
@@ -11,6 +14,23 @@
     <Project Path="../TemplateMethodPattern/TemplateMethodPattern.csproj" Id="69ef2916-ba7d-47c9-8597-cb7add61225b" />
   </Folder>
   <Folder Name="/CreationalPatterns/">
+    <Project Path="../AbstractFactoryMethod/AbstractFactoryMethod.csproj" Id="31e748f9-7bc5-4e0f-a315-4b2f071b734e" />
+    <Project Path="../AbstractFactoryMethod/obj/Debug/net10.0/apphost.exe">
+      <BuildType Project="Release" />
+      <Platform Project="x64" />
+      <Properties Name="DebuggerProjectSystem">
+        <Property Name="AttachLaunchAction" Value="No" />
+        <Property Name="Environment" Value="Default" />
+        <Property Name="Executable" Value="C:\Aman_Docs\Study_Plan\.NET8-Design_Patterns-SOLID\AbstractFactoryMethod\obj\Debug\net10.0\apphost.exe" />
+        <Property Name="IORedirection" Value="Auto" />
+        <Property Name="LaunchingEngine" Value="00000000-0000-0000-0000-000000000000" />
+        <Property Name="LaunchSQLEngine" Value="No" />
+        <Property Name="PortSupplier" Value="00000000-0000-0000-0000-000000000000" />
+        <Property Name="RemoteMachine" Value="AMANAGRAWAL" />
+        <Property Name="StartingDirectory" Value="C:\Aman_Docs\Study_Plan\.NET8-Design_Patterns-SOLID\AbstractFactoryMethod\obj\Debug\net10.0" />
+        <Property Name="UseLegacyDebugEngines" Value="No" />
+      </Properties>
+    </Project>
     <Project Path="../Factory/FactoryMethod.csproj" Id="f46e7219-0935-4331-84b9-8c755de7cef3" />
     <Project Path="../Singleton/Singleton.csproj" Id="90ae52fe-ac06-4e25-989d-ef8891570255" />
   </Folder>
