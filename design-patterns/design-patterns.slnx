@@ -36,6 +36,9 @@
     <Project Path="../PrototypePattern/PrototypePattern.csproj" Id="403e5f5c-1262-455a-84d0-479f7a78ce20" />
     <Project Path="../Singleton/Singleton.csproj" Id="90ae52fe-ac06-4e25-989d-ef8891570255" />
   </Folder>
+  <Folder Name="/StructuralPatterns/">
+    <Project Path="../AdapterPattern/AdapterPattern.csproj" Id="3072bb64-4ca0-4ab0-adf3-5c063f4c4a24" />
+  </Folder>
   <Project Path="../LinQ/LinQ.csproj" Id="d2114700-99e5-49da-80cb-03c9c0a6f56f" />
   <Project Path="OOPS.csproj" />
 </Solution>
