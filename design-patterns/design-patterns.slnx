@@ -2,6 +2,7 @@
   <Folder Name="/BehaviouralPatterns/">
     <Project Path="../CommandDesignPattern/CommandDesignPattern.csproj" Id="7530a454-e1ea-418d-8005-0920fb4c8c58" />
     <Project Path="../IteratorPattern/IteratorPattern.csproj" Id="6068cfe0-39be-4c11-bc22-b509ff23a5be" />
+    <Project Path="../MediatorPattern/MediatorPattern.csproj" Id="1e928e9d-3bc0-4ca2-b496-d5aa0ebe8b10" />
     <Project Path="../MementoPattern/MementoPattern.csproj" />
     <Project Path="../ObserverPattern/ObserverPattern.csproj" />
     <Project Path="../StatePattern/StatePattern.csproj" Id="31c9c5c4-203e-4f4f-b8c1-b7794c3a0766" />
