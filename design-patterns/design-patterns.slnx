@@ -31,6 +31,7 @@
         <Property Name="UseLegacyDebugEngines" Value="No" />
       </Properties>
     </Project>
+    <Project Path="../BuilderPattern/BuilderPattern.csproj" Id="c53138a7-9f61-46d9-94e9-40f87b4f7d01" />
     <Project Path="../Factory/FactoryMethod.csproj" Id="f46e7219-0935-4331-84b9-8c755de7cef3" />
     <Project Path="../Singleton/Singleton.csproj" Id="90ae52fe-ac06-4e25-989d-ef8891570255" />
   </Folder>
