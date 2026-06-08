@@ -42,6 +42,7 @@
     <Project Path="../FacadePattern/FacadePattern.csproj" Id="bf772898-d010-4215-9cac-f2898f9658ef" />
     <Project Path="../ProxyPattern/ProxyPattern.csproj" Id="9889adc4-039a-4b27-ab04-8275e53e00e4" />
   </Folder>
+  <Project Path="../DependencyInjection/DependencyInjection.csproj" Id="215c1f1b-e8f4-423f-9944-836b5cc3d615" />
   <Project Path="../LinQ/LinQ.csproj" Id="d2114700-99e5-49da-80cb-03c9c0a6f56f" />
   <Project Path="OOPS.csproj" />
 </Solution>
