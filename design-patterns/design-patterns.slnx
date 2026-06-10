@@ -36,6 +36,10 @@
     <Project Path="../PrototypePattern/PrototypePattern.csproj" Id="403e5f5c-1262-455a-84d0-479f7a78ce20" />
     <Project Path="../Singleton/Singleton.csproj" Id="90ae52fe-ac06-4e25-989d-ef8891570255" />
   </Folder>
+  <Folder Name="/Delegates/">
+    <Project Path="../MultiCastDelegate/MultiCastDelegate.csproj" Id="b58d48af-a734-410c-bcb2-a6cc39263973" />
+    <Project Path="../SingleCastDelegate/SingleCastDelegate.csproj" Id="f81d531f-b45f-4142-86d4-aa35af455583" />
+  </Folder>
   <Folder Name="/StructuralPatterns/">
     <Project Path="../AdapterPattern/AdapterPattern.csproj" Id="3072bb64-4ca0-4ab0-adf3-5c063f4c4a24" />
     <Project Path="../DecoratorPattern/DecoratorPattern.csproj" Id="ca3616e0-25b6-4920-9f2d-5adfe080e86e" />
