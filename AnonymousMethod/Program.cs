@@ -16,5 +16,11 @@ class Program
         };
         notify("Order Placed");
 
+
+        NotificationDelegate notifyLambda = message =>
+        {
+            Console.WriteLine(message);
+        };
+        notify("Via Lambda Expressions");
     }
 }
