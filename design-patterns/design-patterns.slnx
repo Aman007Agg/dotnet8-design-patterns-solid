@@ -37,6 +37,7 @@
     <Project Path="../Singleton/Singleton.csproj" Id="90ae52fe-ac06-4e25-989d-ef8891570255" />
   </Folder>
   <Folder Name="/Delegates/">
+    <Project Path="../AnonymousMethod/AnonymousMethod.csproj" Id="e23852be-dc3d-40a5-90de-89e30b8fdbb7" />
     <Project Path="../MultiCastDelegate/MultiCastDelegate.csproj" Id="b58d48af-a734-410c-bcb2-a6cc39263973" />
     <Project Path="../SingleCastDelegate/SingleCastDelegate.csproj" Id="f81d531f-b45f-4142-86d4-aa35af455583" />
   </Folder>
