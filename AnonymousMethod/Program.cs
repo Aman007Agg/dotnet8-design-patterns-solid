@@ -22,5 +22,14 @@ class Program
             Console.WriteLine(message);
         };
         notify("Via Lambda Expressions");
+
+        Func<int, int, int> add = (a, b) =>
+        {
+            return a + b;
+        };
+
+        Console.WriteLine(add(3, 4));
+
+
     }
 }
